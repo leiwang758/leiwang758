@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lei Wang
+- 👋 Hi there!, I’m Lei
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning React/Typescript
 - 💞️ I’m looking to collaborate on BIG FUN projects
